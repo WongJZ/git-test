@@ -1,1 +1,1 @@
-"Some More Text"
+"Some New Feature Text"
